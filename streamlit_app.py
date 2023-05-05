@@ -132,3 +132,4 @@ with st.container():
 with st.expander("See explanation"):
     st.write("The chart above reflects the weighted average occupancy rate by month for the selected company. The dotted lines represent the 25th, 50th and 75th percentile weighted average occupancy rates for the selected vintage.")
 
+st.write("To read more about how this was created, check out the following Substack post [link](https://www.prompts.finance/p/cmbs-occupancy-rates)")
